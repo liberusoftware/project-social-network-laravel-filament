@@ -51,7 +51,7 @@ final class PanelNavigation
             'Liberu\\Foundation\\IdentityFilament\\Resources\\UserResource' => 'People & Access',
             'Liberu\\Foundation\\OrganizationsFilament\\Resources\\TeamResource' => 'People & Access',
             'BezhanSalleh\\FilamentShield\\Resources\\Roles\\RoleResource' => 'People & Access',
-            'Liberu\\Foundation\\ModuleManagerFilament\\Pages\\FoundationOperations' => 'Operations',
+            'Liberu\\Foundation\\ModuleManagerFilament\\Pages\\ModuleManagement' => 'Settings',
             'Liberu\\Foundation\\SettingsFilament\\Pages\\ManageSiteSettings' => 'Settings',
         ];
     }
