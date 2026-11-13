@@ -398,5 +398,165 @@
     "source_signature": "c295f61b5e5a25fc0ff63b7f4d6021ed8d43c1ecfa7df5a0cb0b535793370ae0",
     "source_tree": "3dd9d79d36bbcc6267e21810988d940326857224",
     "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-profiles-api": {
+    "path": "modules/social-network-profiles-api",
+    "reference": "284b5536a7bdddd7ab87ca65043ffab538c4c102",
+    "repository": "https://github.com/liberusoftware/module-social-network-profiles-api",
+    "source_signature": "ebed05cca49b8e86ea58b194b4c3743a645f0cc4dc40c3ec83ead6f8bc06197c",
+    "source_tree": "e1b3d37cfb3bc5cb8870d53ee36c8ae94a9b2994",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-profiles-livewire": {
+    "path": "modules/social-network-profiles-livewire",
+    "reference": "e4df06b02f23899e93a739ae5162a1b0ae4a150a",
+    "repository": "https://github.com/liberusoftware/module-social-network-profiles-livewire",
+    "source_signature": "e99dc717a5eb5b3ed7b5afa21a91a33cf99f947a845a94f16944999ea3ccf92b",
+    "source_tree": "a135deec6c222aa18fd681637c5a90255d72d38e",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-publishing": {
+    "path": "modules/social-network-publishing",
+    "reference": "40a8cd60d4fc106b6d880e413c1b65a73b2d09b7",
+    "repository": "https://github.com/liberusoftware/module-social-network-publishing",
+    "source_signature": "6082407c61b35bdb2e46e604b22beb2c91a6edc994a686d06329db1193a5eacc",
+    "source_tree": "9e2b6aa65b98b624416b0190335082c54ae8ec49",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-publishing-api": {
+    "path": "modules/social-network-publishing-api",
+    "reference": "88b44b93d6e67007162363afd8939c8928067fc2",
+    "repository": "https://github.com/liberusoftware/module-social-network-publishing-api",
+    "source_signature": "a9706aff28de8a41ef7a99f3480f06d9c0f1f79d2340b72af33ed77f0062fdea",
+    "source_tree": "4c1b9fe1bc9eea24c94c64cc94d50767243e7703",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-publishing-livewire": {
+    "path": "modules/social-network-publishing-livewire",
+    "reference": "ddaaadade82a7087227a8c86edc903a929a91408",
+    "repository": "https://github.com/liberusoftware/module-social-network-publishing-livewire",
+    "source_signature": "8f5171bc4ae75bde3f70d435c7f1faf6868e791e0467d85159fa20bc18b8536e",
+    "source_tree": "9c2b76bfa75aa07872eb18a3e3b1483984b32c8b",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-social-core": {
+    "path": "modules/social-network-social-core",
+    "reference": "6235cc345f1e0872ec5e6f5418d1cbc28c806415",
+    "repository": "https://github.com/liberusoftware/module-social-network-social-core",
+    "source_signature": "5615a3906a8fbf90faa24b30e227425e0e1ad9f122ec3984aeed7116008d05af",
+    "source_tree": "1a3e311e7daafd4e332874d492229d83b5ef3eaf",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-social-core-api": {
+    "path": "modules/social-network-social-core-api",
+    "reference": "49f7c84bd2b9fba892a70227268d678f34a98e9e",
+    "repository": "https://github.com/liberusoftware/module-social-network-social-core-api",
+    "source_signature": "e0c0484c5de877abb01d60d37234f9c9554ef2b31b7851185cdaf5757c6c95a1",
+    "source_tree": "682c5a16666fc01f242cc55a5f0cabc19d8abe27",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-social-core-livewire": {
+    "path": "modules/social-network-social-core-livewire",
+    "reference": "6d2e66978492a2f24d12be245115e2f5b2285d84",
+    "repository": "https://github.com/liberusoftware/module-social-network-social-core-livewire",
+    "source_signature": "2425b2d03f2ec280f07d93607024b9d891c28c91bdd19534f78ac942be57037a",
+    "source_tree": "b0dbe819a1354497159af4e50b98d981cab7f0fa",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-social-graph": {
+    "path": "modules/social-network-social-graph",
+    "reference": "d29d4a4e9e714f00b960a21fffeab57a089958e9",
+    "repository": "https://github.com/liberusoftware/module-social-network-social-graph",
+    "source_signature": "293e50f3c65b36fa8971021c006eff56d1228abb1a43fd066bee29835862e285",
+    "source_tree": "4595d11c761fa6e81d95a31613e2841c22b80588",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-social-graph-api": {
+    "path": "modules/social-network-social-graph-api",
+    "reference": "61b63483d7b2378558a4a27ee33ecc71f9079e8c",
+    "repository": "https://github.com/liberusoftware/module-social-network-social-graph-api",
+    "source_signature": "1e2d5a63f47101ab7009976de421860ab6892598ba4e2d96c30686126e2f50b3",
+    "source_tree": "87c82bdf32ebe76738951c43628b5b73c8d874c2",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-social-network-social-graph-livewire": {
+    "path": "modules/social-network-social-graph-livewire",
+    "reference": "b9abd4a3bcbad9f706b2cbe7108566bfcc6523a9",
+    "repository": "https://github.com/liberusoftware/module-social-network-social-graph-livewire",
+    "source_signature": "9476e2c6700d5985a1eaf02568aeb92e6c274c0a06eadf8e61f3ddfdb69b9702",
+    "source_tree": "7e6a17a3ef3f33d38038f9635e3e539b1d1484e2",
+    "version": "0.1.3"
+  },
+  "liberusoftware/module-webhooks-api": {
+    "path": "modules/webhooks-api",
+    "reference": "84f92d21ec119f3a0fcaa7421ca5bf135ee64e1d",
+    "repository": "https://github.com/liberusoftware/module-webhooks-api",
+    "source_signature": "221760e23f6845283beb9cd85c88c0e147ddf187875dc600ffd2d7312e146817",
+    "source_tree": "8b7e1bbbd2ba9b4c148e669736bda2c349a5a284",
+    "version": "0.1.0"
+  },
+  "liberusoftware/notifications": {
+    "path": "modules/notifications",
+    "reference": "b187fa63ac3f31d4ddc2aa6f1105e39d01e76f7d",
+    "repository": "https://github.com/liberusoftware/module-notifications",
+    "source_signature": "26d30f6bf7796d81f1a460eb1500deb4422128305982c2ae3f8e00de1020bc51",
+    "source_tree": "d637718847638a111ca69e2d302105859d156430",
+    "version": "1.5.1"
+  },
+  "liberusoftware/observability": {
+    "path": "modules/observability",
+    "reference": "093591947f97d89016572c3642166b491d028dd2",
+    "repository": "https://github.com/liberusoftware/module-observability",
+    "source_signature": "7acacba40e9dfdf4285cb9e81761e27acb60387e99c9ecd3bfc8b0e8d2bede5d",
+    "source_tree": "482399ca144d874b9e260ef5a0e265a0d809d00f",
+    "version": "1.4.7"
+  },
+  "liberusoftware/profiles": {
+    "path": "modules/profiles",
+    "reference": "2a429a0bd16c9ed582a009e19c9c9a71d5f2e7bb",
+    "repository": "https://github.com/liberusoftware/module-profiles",
+    "source_signature": "c0bcf1f42c0d00ff580f43cf0775554a836da7b14f8ce57be3eeba871f1242ad",
+    "source_tree": "3a2c247167926900315b2c3dbb2ee14585a07113",
+    "version": "1.6.0"
+  },
+  "liberusoftware/search-api": {
+    "path": "modules/search-api",
+    "reference": "de4d387b081246e22aeb47149b412355c27a8c55",
+    "repository": "https://github.com/liberusoftware/module-search-api",
+    "source_signature": "1fb715fcdd3e32fe4beddd7a39977dbc79c65ea96e2dc181c85774282286da51",
+    "source_tree": "fb8f80908fcabaf4a841926759c1439dcde99450",
+    "version": "1.6.1"
+  },
+  "liberusoftware/sessions-devices": {
+    "path": "modules/sessions-devices",
+    "reference": "50174438d8f823f16390ca06093f67967ccb5c1d",
+    "repository": "https://github.com/liberusoftware/module-sessions-devices",
+    "source_signature": "aaa15409777dd8920ad9b02b13f2f7e6899581f4adaefd6c18e6258c30d099f0",
+    "source_tree": "86dff081059ee1edb16ebc24d6644f11a2ee2a63",
+    "version": "1.5.1"
+  },
+  "liberusoftware/theme-support-livewire": {
+    "path": "modules/theme-support-livewire",
+    "reference": "808a95a465b2702923921f07b21a5cb9b0982663",
+    "repository": "https://github.com/liberusoftware/module-theme-support-livewire",
+    "source_signature": "8d037f1a0027ab325b948ff2327e59380e8d910efeb5e435cb5a2b62bba86f8f",
+    "source_tree": "ec54af6eb72a681166cd41f4bb7ca88ebf1c2612",
+    "version": "1.6.1"
+  },
+  "liberusoftware/two-factor-authentication": {
+    "path": "modules/two-factor-authentication",
+    "reference": "3ca80cbc17980d9749faf765c0db847ba43c4d29",
+    "repository": "https://github.com/liberusoftware/module-two-factor-authentication",
+    "source_signature": "bdc7d5e730187b97a8d079b0a4dcf690e113a9c7d76149e48aeabe9066abf199",
+    "source_tree": "21c52926225fb1ae0bfffe3ef3dd15535a9fecb2",
+    "version": "1.4.6"
+  },
+  "liberusoftware/users-roles": {
+    "path": "modules/users-roles",
+    "reference": "4aa49df470411bdea1f54abd1a6e76c6173b68d9",
+    "repository": "https://github.com/liberusoftware/module-users-roles",
+    "source_signature": "96033d42d8fc17173e90e6666fb0019d2b232b7ff059b4f520990da2fd7047bc",
+    "source_tree": "4bae1d5190dfbfabb38b1427eeb20930b66738c2",
+    "version": "1.0.3"
   }
 }
