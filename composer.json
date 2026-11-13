@@ -463,8 +463,6 @@
                     "liberusoftware/localization-core-livewire": "1.4.1",
                     "liberusoftware/localization-core": "1.4.1",
                     "liberusoftware/localization-mymemory": "1.4.1",
-                    "liberusoftware/module-manager-filament": "1.4.1",
-                    "liberusoftware/module-manager": "1.4.2",
                     "liberusoftware/notifications": "1.4.1",
                     "liberusoftware/observability": "1.4.1",
                     "liberusoftware/organizations-teams-filament": "1.4.1",
@@ -547,6 +545,8 @@
                 }
             },
             "exclude": [
+                "liberusoftware/module-manager",
+                "liberusoftware/module-manager-filament",
                 "liberusoftware/tenancy"
             ]
         },
@@ -617,8 +617,8 @@
         "liberusoftware/localization-core": "^1.0",
         "liberusoftware/localization-core-livewire": "^1.0",
         "liberusoftware/localization-mymemory": "^1.0",
-        "liberusoftware/module-manager": "^1.0",
-        "liberusoftware/module-manager-filament": "^1.1",
+        "liberusoftware/module-manager": "^1.9",
+        "liberusoftware/module-manager-filament": "^1.11",
         "liberusoftware/module-social-network-analytics": "^0.1",
         "liberusoftware/module-social-network-analytics-api": "^0.1",
         "liberusoftware/module-social-network-analytics-filament": "^0.1",

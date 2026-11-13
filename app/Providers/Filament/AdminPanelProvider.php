@@ -3,6 +3,7 @@
 namespace App\Providers\Filament;
 
 use App\Filament\ModulePlugins;
+use App\Models\User;
 use App\Support\PanelNavigation;
 use App\Support\ThemeColors;
 use BezhanSalleh\FilamentShield\Middleware\SyncShieldTenant;
@@ -21,10 +22,12 @@ use Illuminate\Cookie\Middleware\EncryptCookies;
 use Illuminate\Foundation\Http\Middleware\PreventRequestForgery;
 use Illuminate\Routing\Middleware\SubstituteBindings;
 use Illuminate\Session\Middleware\StartSession;
+use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\Route;
 use Illuminate\View\Middleware\ShareErrorsFromSession;
 use Liberu\Foundation\ApplicationCore\Http\Middleware\SecurityHeaders;
 use Liberu\Foundation\Localization\Http\Middleware\SetLocale;
+use Liberu\Foundation\ModuleManagerFilament\Pages\ModuleManagement;
 use Liberu\Foundation\Organizations\Models\Team;
 
 class AdminPanelProvider extends PanelProvider
@@ -82,5 +85,10 @@ class AdminPanelProvider extends PanelProvider
             ->authMiddleware([
                 Authenticate::class,
             ]);
+    }
+
+    public function boot(): void
+    {
+        Gate::define(ModuleManagement::ABILITY, fn (User $user): bool => $user->isAdmin());
     }
 }
