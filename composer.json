@@ -209,5 +209,10 @@
         }
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "homepage": "https://github.com/liberusoftware/project-social-network-laravel-filament",
+    "support": {
+        "issues": "https://github.com/liberusoftware/project-social-network-laravel-filament/issues",
+        "source": "https://github.com/liberusoftware/project-social-network-laravel-filament"
+    }
 }
