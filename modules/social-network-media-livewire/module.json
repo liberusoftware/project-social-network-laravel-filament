@@ -3,7 +3,7 @@
   "name": "social-network-media-livewire",
   "display_name": "Social Network Media Livewire",
   "description": "Livewire media registration interaction.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Media\\Livewire\\MediaLivewireServiceProvider",
   "requires": {

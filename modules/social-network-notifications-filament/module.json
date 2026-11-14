@@ -3,7 +3,7 @@
   "name": "social-network-notifications-filament",
   "display_name": "Social Network Notifications Filament",
   "description": "Filament notification operations.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Notifications\\Filament\\NotificationsFilamentServiceProvider",
   "requires": {

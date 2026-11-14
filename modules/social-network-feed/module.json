@@ -3,7 +3,7 @@
   "name": "social-network-feed",
   "display_name": "Social Network Feed",
   "description": "Timeline assembly and visibility-aware feed reads.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\Feed\\FeedServiceProvider",
   "requires": {

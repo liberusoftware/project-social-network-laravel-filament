@@ -3,7 +3,7 @@
   "name": "social-network-engagement-livewire",
   "display_name": "Social Network Engagement Livewire",
   "description": "Livewire engagement interaction.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Engagement\\Livewire\\EngagementLivewireServiceProvider",
   "requires": {

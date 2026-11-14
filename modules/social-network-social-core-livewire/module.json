@@ -3,7 +3,7 @@
   "name": "social-network-social-core-livewire",
   "display_name": "Social Network Social Core Livewire",
   "description": "Livewire 4 settings interaction for Social Core.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\SocialCore\\Livewire\\SocialCoreLivewireServiceProvider",
   "requires": {

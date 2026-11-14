@@ -3,7 +3,7 @@
   "name": "social-network-feed-filament",
   "display_name": "Social Network Feed Filament",
   "description": "Filament feed administration.",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Feed\\Filament\\FeedFilamentServiceProvider",
   "requires": {

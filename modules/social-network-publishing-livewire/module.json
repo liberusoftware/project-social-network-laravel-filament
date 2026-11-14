@@ -3,7 +3,7 @@
   "name": "social-network-publishing-livewire",
   "display_name": "Social Network Publishing Livewire",
   "description": "Livewire publication composer.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Publishing\\Livewire\\PublishingLivewireServiceProvider",
   "requires": {

@@ -3,7 +3,7 @@
   "name": "social-network-feed-api",
   "display_name": "Social Network Feed API",
   "description": "Authenticated feed API.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Feed\\Api\\FeedApiServiceProvider",
   "requires": {

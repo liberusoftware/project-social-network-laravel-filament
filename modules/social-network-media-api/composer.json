@@ -3,7 +3,7 @@
   "description": "Versioned API adapter for Media.",
   "type": "liberu-module",
   "license": "MIT",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "require": {
     "php": "^8.5",
     "illuminate/http": "^13.38.0",

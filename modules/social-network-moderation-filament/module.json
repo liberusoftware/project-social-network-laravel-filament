@@ -3,7 +3,7 @@
   "name": "social-network-moderation-filament",
   "display_name": "Social Network Moderation Filament",
   "description": "Filament moderation queue.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Moderation\\Filament\\ModerationFilamentServiceProvider",
   "requires": {

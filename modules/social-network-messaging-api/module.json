@@ -3,7 +3,7 @@
   "name": "social-network-messaging-api",
   "display_name": "Social Network Messaging API",
   "description": "Authenticated messaging API.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Messaging\\Api\\MessagingApiServiceProvider",
   "requires": {

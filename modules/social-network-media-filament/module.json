@@ -3,7 +3,7 @@
   "name": "social-network-media-filament",
   "display_name": "Social Network Media Filament",
   "description": "Filament media administration.",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Media\\Filament\\MediaFilamentServiceProvider",
   "requires": {

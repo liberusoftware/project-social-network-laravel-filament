@@ -3,7 +3,7 @@
   "name": "social-network-social-graph-filament",
   "display_name": "Social Network Social Graph Filament",
   "description": "Filament Social Graph administration surface.",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\SocialGraph\\Filament\\SocialGraphFilamentServiceProvider",
   "requires": {

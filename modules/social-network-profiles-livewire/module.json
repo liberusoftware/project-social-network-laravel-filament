@@ -3,7 +3,7 @@
   "name": "social-network-profiles-livewire",
   "display_name": "Social Network Profiles Livewire",
   "description": "Livewire 4 profile editing interaction.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Profiles\\Livewire\\ProfilesLivewireServiceProvider",
   "requires": {

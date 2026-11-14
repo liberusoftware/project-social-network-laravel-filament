@@ -3,7 +3,7 @@
   "name": "social-network-profiles-filament",
   "display_name": "Social Network Profiles Filament",
   "description": "Filament 5 profile administration surface.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Profiles\\Filament\\ProfilesFilamentServiceProvider",
   "requires": {

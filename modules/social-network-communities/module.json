@@ -3,7 +3,7 @@
   "name": "social-network-communities",
   "display_name": "Social Network Communities",
   "description": "Groups, memberships, roles, rules, feeds, and moderation boundaries.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\Communities\\CommunitiesServiceProvider",
   "requires": {

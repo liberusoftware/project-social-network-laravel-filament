@@ -3,7 +3,7 @@
   "name": "social-network-communities-livewire",
   "display_name": "Social Network Communities Livewire",
   "description": "Livewire community creation and membership interaction.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Communities\\Livewire\\CommunitiesLivewireServiceProvider",
   "requires": {

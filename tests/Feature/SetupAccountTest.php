@@ -6,6 +6,22 @@ use Illuminate\Support\Carbon;
 use Liberu\Foundation\Organizations\Models\Team;
 use Livewire\Livewire;
 
+it('selects the newest owned team when the user has no current team', function () {
+    $user = User::factory()->create(['current_team_id' => null]);
+    Team::factory()->create(['user_id' => $user->id, 'name' => 'Old workspace']);
+    $latestTeam = Team::factory()->create(['user_id' => $user->id, 'name' => 'New workspace']);
+    $this->actingAs($user);
+
+    Livewire::test(SetupAccount::class)
+        ->assertSet('data.team_name', 'New workspace');
+
+    expect($user->fresh()->current_team_id)->toBe($latestTeam->id);
+});
+
+it('uses the provider display name for connection labels', function () {
+    expect((new SetupAccount())->providerLabel('github'))->toBe('GitHub');
+});
+
 it('renders the setup wizard for a newly registered user', function () {
     $user = User::factory()->create();
     $team = Team::factory()->create(['user_id' => $user->id, 'name' => "Ada's Team"]);

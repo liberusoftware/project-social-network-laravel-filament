@@ -3,7 +3,7 @@
   "name": "social-network-publishing",
   "display_name": "Social Network Publishing",
   "description": "Tenant-aware social publishing domain.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\Publishing\\PublishingServiceProvider",
   "requires": {

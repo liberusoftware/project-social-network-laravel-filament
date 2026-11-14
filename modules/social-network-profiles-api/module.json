@@ -3,7 +3,7 @@
   "name": "social-network-profiles-api",
   "display_name": "Social Network Profiles API",
   "description": "Authenticated versioned HTTP adapter for Profiles.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Profiles\\Api\\ProfilesApiServiceProvider",
   "requires": {

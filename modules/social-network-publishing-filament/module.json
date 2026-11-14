@@ -3,7 +3,7 @@
   "name": "social-network-publishing-filament",
   "display_name": "Social Network Publishing Filament",
   "description": "Filament publication administration.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Publishing\\Filament\\PublishingFilamentServiceProvider",
   "requires": {

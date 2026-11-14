@@ -3,7 +3,7 @@
   "name": "social-network-social-core-api",
   "display_name": "Social Network Social Core API",
   "description": "Authenticated versioned HTTP adapter for Social Core.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\SocialCore\\Api\\SocialCoreApiServiceProvider",
   "requires": {

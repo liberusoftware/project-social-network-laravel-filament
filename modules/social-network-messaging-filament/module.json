@@ -3,7 +3,7 @@
   "name": "social-network-messaging-filament",
   "display_name": "Social Network Messaging Filament",
   "description": "Filament messaging administration.",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Messaging\\Filament\\MessagingFilamentServiceProvider",
   "requires": {

@@ -3,7 +3,7 @@
   "name": "social-network-social-core",
   "display_name": "Social Network Social Core",
   "description": "Network settings, deployment mode, terminology, feature policy, shared IDs, and events.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\SocialCore\\SocialCoreServiceProvider",
   "requires": {

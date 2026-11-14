@@ -3,7 +3,7 @@
   "name": "social-network-engagement",
   "display_name": "Social Network Engagement",
   "description": "Engagement domain for social content.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\Engagement\\EngagementServiceProvider",
   "requires": {

@@ -3,7 +3,7 @@
   "name": "social-network-moderation-api",
   "display_name": "Social Network Moderation API",
   "description": "Authenticated report intake API.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Moderation\\Api\\ModerationApiServiceProvider",
   "requires": {

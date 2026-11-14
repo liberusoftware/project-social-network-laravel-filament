@@ -3,7 +3,7 @@
   "name": "social-network-messaging-livewire",
   "display_name": "Social Network Messaging Livewire",
   "description": "Livewire message composer.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Messaging\\Livewire\\MessagingLivewireServiceProvider",
   "requires": {

@@ -3,7 +3,7 @@
   "name": "social-network-messaging",
   "display_name": "Social Network Messaging",
   "description": "Private messaging domain and lifecycle.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\Messaging\\MessagingServiceProvider",
   "requires": {

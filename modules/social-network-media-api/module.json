@@ -3,7 +3,7 @@
   "name": "social-network-media-api",
   "display_name": "Social Network Media API",
   "description": "Authenticated media metadata API.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Media\\Api\\MediaApiServiceProvider",
   "requires": {

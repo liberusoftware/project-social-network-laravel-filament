@@ -3,7 +3,7 @@
   "name": "social-network-engagement-filament",
   "display_name": "Social Network Engagement Filament",
   "description": "Filament engagement administration.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "presentation",
   "provider": "Liberu\\SocialNetwork\\Engagement\\Filament\\EngagementFilamentServiceProvider",
   "requires": {

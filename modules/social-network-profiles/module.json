@@ -3,7 +3,7 @@
   "name": "social-network-profiles",
   "display_name": "Social Network Profiles",
   "description": "Handles, bios, attributes, avatars, verification, visibility, blocking, and profile lifecycle.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\Profiles\\ProfilesServiceProvider",
   "requires": {

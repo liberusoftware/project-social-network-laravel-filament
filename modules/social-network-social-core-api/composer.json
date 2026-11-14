@@ -21,7 +21,7 @@
       "name": "social-network-social-core-api"
     }
   },
-  "version": "0.1.2",
+  "version": "0.1.3",
   "config": {
     "allow-plugins": {
       "pestphp/pest-plugin": true

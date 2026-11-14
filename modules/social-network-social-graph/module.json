@@ -3,7 +3,7 @@
   "name": "social-network-social-graph",
   "display_name": "Social Network Social Graph",
   "description": "Follows, friendship requests, lists, suggestions, blocks, and relationship visibility.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "category": "product",
   "provider": "Liberu\\SocialNetwork\\SocialGraph\\SocialGraphServiceProvider",
   "requires": {
