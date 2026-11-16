@@ -108,7 +108,7 @@
         "liberusoftware/module-social-network-social-graph-api": "^0.1",
         "liberusoftware/module-social-network-social-graph-filament": "^0.1",
         "liberusoftware/module-social-network-social-graph-livewire": "^0.1",
-        "liberusoftware/module-webhooks-api": "^0.1",
+        "liberusoftware/module-webhooks-api": "^1.0",
         "liberusoftware/notifications": "^1.0",
         "liberusoftware/observability": "^1.0",
         "liberusoftware/organizations-teams": "^1.0",
